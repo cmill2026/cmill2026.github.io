@@ -1,0 +1,22 @@
+body {
+  margin: 10px;
+}
+
+.logo {
+  width: 100%; /* Adjust the logo width as needed */
+}
+
+header {
+  font-family: Basier, Arial, sans-serif;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 20px; /* Adjust the margin as needed */
+}
+
+h1 {
+  font-size: 46px;
+  text-align: center;
+}
+
+/* Adjust other styles as needed */
+
